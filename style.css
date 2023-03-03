@@ -1,0 +1,142 @@
+.a{
+    width: 15%;
+    height: 30%;
+    margin-bottom: 10%;
+    
+}
+.b{
+    padding-left: 20%;
+    font-size: small;
+}
+
+.d{
+    display: flex;
+    padding-left: 5%;
+}
+.c{
+    
+    
+}
+.f{
+    font-size: 300%;
+}
+.e{
+    background-color: rgb(170, 50, 7);
+    color: white;
+    padding-left: 10%;
+}
+.g{
+  background-color: rgb(2, 81, 83);
+  color: white;  
+  padding: 10px 8px;
+  margin-right: 87%;
+}
+.h{
+    padding-left: 10%;
+}
+.i{
+    font-size: 80%;
+    color: rgb(9, 12, 170);
+}
+.j{
+    color: rgb(7, 161, 128);
+    font-weight: bold;
+}
+.k{
+    color: rgb(8, 150, 155);
+    font-weight: bold;
+}
+.ba{
+    background-color: rgb(4, 102, 117);
+    color: white;
+    padding: 5px 30px;  
+}
+.be{
+    background-color: rgb(4, 99, 105);
+    color: white;
+    padding: 5px 30px;
+}
+.bi{
+    background-color: rgb(5, 94, 94);
+    color: white;
+    padding: 5px 30px;
+}
+.bo{
+    background-color: rgb(4, 77, 80);
+    color: white;
+    padding: 5px 30px;
+}
+.bu{
+    display: flex;
+    gap: 4%;
+    padding-left: 10%;
+    font-size: 80%;
+}
+.l{
+    display: flex;
+    gap: 8%;
+    padding-left: 11%;
+}
+.ma{
+    width: 8%;
+    height: 5%;
+    border-radius: 50%;
+}
+.me{
+    width: 8%;
+    height: 4%;
+    border-radius: 50%;
+}
+.mi{
+    width: 10%;
+    height: 6%;
+    border-radius: 50%;
+}
+.m{
+    display: flex;
+    gap: 2%;
+    padding-left: 10%;
+    font-size: 80%;
+}
+.ka{
+    background-color: rgb(7, 142, 151);
+    color: white;
+    padding: 8px 8px;
+}
+.ke{
+    background-color: rgb(7, 146, 146);
+    color: white;
+    padding: 8px 8px;
+}
+.ki{
+    background-color: rgb(7, 142, 151);
+    color: white;
+    padding: 8px 8px;
+}
+.n{
+    display: flex;
+    padding-left: 10%;
+    gap: 2%;
+}
+.la{
+    background-color: rgb(8, 172, 172);
+    color: white;
+    padding: 8px 8px;
+    padding-right: 7%;
+}
+.le{
+    background-color: goldenrod;
+    color: white;
+    padding: 8px 8px;
+    padding-right: 3%;
+}
+.li{
+    background-color: orangered;
+    color: white;
+    padding: 8px 8px;
+    padding-right: 2%;
+}
+.o{
+    width: 10%;
+    padding-left: 50%;
+}
